@@ -32,10 +32,3 @@ src/
   app.js      konfigurasi Express
   server.js   titik masuk aplikasi
 ```
-
-## Status pengerjaan
-
-- [x] Setup repositori dan server dasar
-- [ ] Migrasi database dan seeder (target 30 Oktober)
-- [ ] Logika stok masuk, stok keluar, safety stock, opname, rekap (1 sampai 6 November)
-- [ ] Deployment (target 7 November)
